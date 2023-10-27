@@ -17,7 +17,7 @@ Trello Clone is a web-based project management application built with modern web
 ### Prerequisites
 
 - PostgreSQL installed: [Download PostgreSQL](https://www.postgresql.org/download/).
-- Clone the repository: `git clone https://github.com/jackbisceglia/trello-clone.git`.
+- Clone the repository: `https://github.com/poorvika11/ascend-task`.
 - Update PostgreSQL user details in `server/db.js`.
 - Install dependencies:
   - Navigate to the `server` directory: `cd server` and run `npm install`.
