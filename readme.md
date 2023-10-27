@@ -1,6 +1,6 @@
-# Trello Clone
+# Web-Task
 
-Trello Clone is a web-based project management application built with modern web technologies. It offers an intuitive user interface for managing tasks, collaborating with team members, and organizing projects effectively.
+This is a web-based project management application built with modern web technologies. It offers an intuitive user interface for managing tasks.
 
 ## Features
 
@@ -26,7 +26,7 @@ Trello Clone is a web-based project management application built with modern web
 ### Running the Application
 
 1. **Database Setup**:
-   - Install PostgreSQL and create a database named "trelloclone".
+   - Install PostgreSQL and create a database named "dbname".
    - Use the SQL queries in `server/data.sql` to create the necessary tables.
 
 2. **Server and Frontend**:
